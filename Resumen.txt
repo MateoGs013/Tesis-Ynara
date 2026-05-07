@@ -1,0 +1,226 @@
+01/11 YNARA
+
+Ynara
+
+Asistente personal
+
+tres pilares: Memoria, organizacion y acompañamiento
+
+
+02/11 PROBLEMA
+
+persona promiedo: 5 - 8 apps
+
+Calendario, notas, tareas, tareas, habitos y bienestar
+
+Carga mental constante
+
+perdida de tiempo - informacion dividida
+
+03/11 TRES PILARES/FRENTES y NINGUN PUENTE
+
+
+Productividad
+
+
+calendarios y tareas con IA
+organización y priorización
+foco en eficiencia
+optimizan el hacer, no entienden a la persona
+
+
+Compañía
+
+chatbots conversacionales
+mucha continuidad de charla
+poca o nula ejecución real
+te acompañan, pero no operan por vos
+Por ejemplo: no pueden leer un archivo, resumirlo y actualizar la lista de tareas en base a eso.
+	 o Actualizar la todo list según tu estado de ánimo, energía o nivel de foco.
+
+
+Memoria
+
+
+Limitless capturaba tu día con grabaciones. 
+
+privacidad muy sensible/comprometida puede usar esa info para mejorar servicios y entrenar/desarrollar modelos 
+
+ese enfoque quedó muy atado al hardware
+
+el móvil solo nunca terminó de resolver este caso de uso 
+
+ynara se basa en esta intuitividad que te da el mobile
+
+04/11 QUE ES YNARA
+
+1. Unifica organización
+
+no es solo una agenda, sino una organización más inteligente.
+
+“No es un calendario estático, prioriza según urgencia y contexto.”
+
+2. Memoria contextual
+
+el chat no arranca de cero cada vez.
+
+Recuerda cosas importantes de sesiones anteriores
+ 
+
+
+decisiones, pendientes, preferencias, hábitos.
+
+3. Acompañamiento integrado
+
+
+Qué quiere decir:
+
+parte de compañía, check-ins, recaps y sugerencias 
+
+vive dentro del mismo flujo de uso, no en otra app aparte.
+
+el acompañamiento ya está integrado
+
+
+4. Adaptación progresiva
+
+
+Qué quiere decir:
+
+Ynara aprende de vos con el tiempo
+
+se va ajustando según cómo estás o qué necesitás.
+
+“No se usa igual siempre: porque se adapta a vos.”
+
+
+05/11 PARA QUIEN
+
+Estudiantes y jovenes profesionales 
+
+De 18 a 30 
+
+entre estudio, trabajo y vida personal
+
+Todo se mezcla, se superpone y se arrastra.
+
+Sale de cursar, entra a trabajar y todavía tiene en la cabeza una entrega, un mensaje personal y una reunión pendiente.
+
+
+Nativos digitales con IA
+
+Ya estan familiarizados con la IA 
+
+Claude, chatGPT, gemini
+
+se sostienen de la IA, es parte de como piensan y producen
+
+
+
+Usuarios fragmentados 
+
+Calendario, notasm tareas, habitos y bienestar en apps separadas
+
+carga de mantener todo sincronizado
+
+
+Foco regional: LATAM
+
+Argentina pero despues se va expandiendo por mexico colombia chile
+
+por ahora pensamos en la region (idioma)
+
+
+06/11
+
+
+
+07/11  DIAGRAMA VENN
+
+Estos tres pilares evolucionaron separados en el mercado
+
+El que integra estos tres es yunara
+
+
+
+08/11 FODA - FORTALEZAS - DEBILIDADES
+
+Lo que Ynara trae y lo que le falta para pelear en este mercado
+
+Fortalezas
+
+Unificamos los tres pilares
+
+Aprende de vos
+
+Mejora con cada uso
+
+Modos contextuales segun que tipo de usuario es (segun que tipo de asistencia va a necesitar)
+
+no dependemos de terceros (google, apple, microsoft)
+
+Debilidades
+
+Producto inexistente en el mercado 
+
+no hay base de usuarios
+
+por lo tanto no hay mvp validado
+
+Ambiscioso ya que son tres pilares complejos
+
+Dependemos de LLMS
+
+
+09/11 FODA - OPORTUNIDADES - AMENAZAS
+
+Lo que empuja a favor y lo que puede frenar desde afuera.
+
+OPORTUNIDADES
+
+Memoria contextual ya no tiene un representante (limitless)
+
+5-8 apps = usuarios sobrecargados
+
+ynara ya lo integra 
+
+nuestro publico ya usa LLMS
+
+mejor calidad de servicio al enfocarse en LATAM
+
+
+AMENAZAS
+
+Ynara ataca un Mercado exponencial
+
+no seria raro ver grandes empresas juntando estos pilares en un futuro cercano
+
+por lo tanto podemos decir de que una caracteristica unica puede dejar de serlo y volverse comun e incluso facil de reemplazar por la competencia
+
+en palabras crudas que el usuario deje de creer que nuestra idea es innovadora
+
+posibles trabas legales con respecto a la regulacion de datos (memoria contextual)
+
+Que el usuario desconfie de un producto que lo hace todo, sin poder intervenir
+
+10/11 
+
+OFENSIVO
+
+
+
+Ynara ocupa el espacio que Limitless dejo unificando ademas los tres pilares 
+
+DEFENSIVO
+
+Ecosistema propio sin depender de la Big tech (APIS)
+
+ADAPTATIVO
+
+MVP en estudiantes
+
+SUPERVIVENCIA
+
+Cortar el riesgo de parecer una "app de ia mas" comunicando de forma eficaz nuestro diferencial
+
+11/11
